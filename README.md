@@ -1,6 +1,6 @@
 ## Eventovci
 
-#Programsko inženjerstvo - opis predmeta
+Programsko inženjerstvo - opis predmeta
 
 Ovaj predmet daje uvod u razvoj programskih sustava s naglaskom na razvojni ciklus programske potpore, analizu zahtjeva, specifikaciju, oblikovanje, ispitivanje i formalne metode verifikacije.
 Osim stjecanja teoretskih znanja, studenti sudjeluju u timskom projektu tijekom cijelog semestra te stječu važne vještine programskog inženjerstva, uključujući uporabu sustava za upravljanje inačicama,
